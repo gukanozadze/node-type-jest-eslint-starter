@@ -1,0 +1,1 @@
+# node-type-jest-eslint-starter
